@@ -1,0 +1,5 @@
+Package: NormalDistributionManipulation
+Type: Package
+Title: Package for Manipulation of the Standard Normal Distribution
+Version: 1.0.0.0
+RoxygenNote: 7.1.1
